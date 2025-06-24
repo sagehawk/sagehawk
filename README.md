@@ -25,8 +25,8 @@ I enjoy using modern tools to create fast, scalable, and beautiful applications.
 
 ### A Few Things I've Built 🚀
 
--   **[Nomad-Score](https://github.com/your-username/nomad-score-repo)**: A full-stack discovery platform I architected to help digital nomads find hotels with verified Wi-Fi speeds. This was a deep dive into database design, API integration, and complex, multi-layered filtering.
--   **[Simple Phonics](https://github.com/your-username/phonics-repo)**: An interactive learning app that taught me a ton about solving tricky UI challenges, like native-like mobile gestures and supporting right-to-left (RTL) languages.
+-   **[Nomad-Score](https://nomad-score.com)**: A full-stack discovery platform I architected to help digital nomads find hotels with verified Wi-Fi speeds. This was a deep dive into database design, API integration, and complex, multi-layered filtering.
+-   **[Simple Phonics](https://phonics.sajjadhaq.com)**: An interactive learning app that taught me a ton about solving tricky UI challenges, like native-like mobile gestures and supporting right-to-left (RTL) languages.
 
 ---
 
