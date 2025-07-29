@@ -50,4 +50,4 @@ I enjoy using modern tools to create fast, scalable, and beautiful applications.
 
 ## 🤔 What I'm Thinking About
 
-I'm fascinated by the intersection of AI and developer workflow. Tools like Cursor and Google CLI are changing *how* we build, and I'm always thinking about how to leverage them to focus more on creative problem-solving and less on boilerplate. I'm also exploring how we can build more accessible and performant applications without getting lost in framework complexity.
+I'm fascinated by the intersection of AI and developer workflow. Tools like Cursor and Claude CLI are changing *how* we build, and I'm always thinking about how to leverage them to focus more on creative problem-solving and less on boilerplate. I'm also exploring how we can build more accessible and performant applications without getting lost in framework complexity.
