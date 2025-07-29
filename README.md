@@ -26,9 +26,9 @@ I believe in learning by building. Here are a few things I've built that showcas
 
 | Project                                     | Description                                                                                                                              | Tech Stack                                         |
 | ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
-| 🤖 **[Articulate & Refine](https://essay.sajjadhaq.com)** | An AI-powered writing critic that analyzes essays for logical soundness, providing quantifiable scores and actionable feedback.         | React, TypeScript, Google Gemini API, Tailwind CSS |
-| 🎮 **[GamerGrave](https://gg.sajjadhaq.com)**          | A community-driven game database optimized for performance. Solved a major image-loading bottleneck, **reducing LCP by over 75%**. | React, TypeScript, Supabase, Performance Optimization |
-| 🔤 **[Simple Phonics](https://phonics.sajjadhaq.com)**         | An interactive learning app designed for children, focusing on a delightful UI, native-like mobile gestures, and accessibility.    | React, TypeScript, Vite, UI/UX                       |
+| 🤖 **[The Social Dojo](https://github.com/sagehawk/TheSocialDojo)** | An AI-powered "flight simulator" for social skills, where users practice high-stakes conversations with dynamic, stateful AI characters. | React, TypeScript, Supabase, Gemini API, Tailwind |
+| 🎮 **[GamerGrave](https://github.com/sagehawk/grave-diggers-arcade-finds)**          | A community-driven game database optimized for performance. Solved a major image-loading bottleneck, **reducing LCP by over 75%**. | React, TypeScript, Supabase, Performance Optimization |
+| 🔤 **[Simple Phonics](https://github.com/sagehawk/phonics-fun-sparkle-time)**         | An interactive learning app designed for children, focusing on a delightful UI, native-like mobile gestures, and accessibility.    | React, TypeScript, Vite, UI/UX                       |
 
 ---
 
