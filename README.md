@@ -31,7 +31,7 @@ I’ve also worked as a freelance front-end developer, designing and deploying p
 | Project | Description | Focus & Key Takeaways |
 | --- | --- | --- |
 | 🎮 **[Grave Digger’s Arcade Finds](https://github.com/sagehawk/grave-diggers-arcade-finds)** | A modern, responsive web app for discovering indie games, built with **React**, **TypeScript**, and the **RAWG API**. | **Completed.** Strengthened API integration, state management, and performance optimization with custom hooks. |
-| 📚 **[ToddlerReads](https://github.com/sagehawk/phonics-fun-sparkle-time)** | A phonics-based educational app designed to provide an engaging, accessible learning experience for children. | **Completed.** Focused on scalable React architecture, accessibility (a11y), and utility-first design with Tailwind CSS and Shadcn/UI. |
+| 📚 **[ToddlerReads](https://github.com/sagehawk/toddler-reads)** | A phonics-based educational app designed to provide an engaging, accessible learning experience for children. | **Completed.** Focused on scalable React architecture, accessibility (a11y), and utility-first design with Tailwind CSS and Shadcn/UI. |
 | ⚙️ **AI-Powered Lead Automation Platform** | A production-ready platform for an automotive client integrating **GoHighLevel**, **Make**, and **Vapi AI**. | **Delivered.** Improved lead response times by 60% and gained experience managing end-to-end product development. |
 
 ---
