@@ -9,7 +9,7 @@ My passion lies in **building and optimizing systems**. I love the challenge of 
 I am currently expanding my expertise in **C# and the .NET framework** to complement my strong background in SQL and JavaScript ecosystem development.
 
 <p>
-  <a href="https://sajjadhaq.com/developer"> <img src="https://img.shields.io/badge/Portfolio-My_Portfolio-252525?style=for-the-badge&logo=vultr&logoColor=white" alt="Portfolio">
+  <a href="https://sajjadhaq.com"> <img src="https://img.shields.io/badge/Portfolio-My_Portfolio-252525?style=for-the-badge&logo=vultr&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://linkedin.com/in/sajjadhaq">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
