@@ -1,12 +1,12 @@
 # 👋 Hi, I’m Sajjad Haq
 
-### Software Developer | Computer Science Graduate
+### IT Support Specialist | Computer Science Graduate | Technical Troubleshooting
 
-I’m a **Computer Science graduate** with a focus on full-stack development, database logic, and system integration.
+I’m a **Computer Science graduate** with a strong foundation in technical support, system diagnostics, and hardware/software troubleshooting.
 
-My passion lies in **building and optimizing systems**. I love the challenge of digging into a complex codebase to diagnose logic errors, structuring efficient databases, and ensuring applications run smoothly in production.
+My passion lies in **solving technical problems**. I combine the deep technical literacy of a developer with a practical, hands-on approach to IT infrastructure. Whether it's diagnosing network connectivity issues, automating workflows, or troubleshooting software errors, I enjoy ensuring systems run smoothly for users.
 
-I am currently expanding my expertise in **C# and the .NET framework** to complement my strong background in SQL and JavaScript ecosystem development.
+I am currently pursuing the **CompTIA A+ certification** to validate my skills in enterprise IT support and administration.
 
 <p>
   <a href="https://sajjadhaq.com"> <img src="https://img.shields.io/badge/Portfolio-My_Portfolio-252525?style=for-the-badge&logo=vultr&logoColor=white" alt="Portfolio">
@@ -21,30 +21,31 @@ I am currently expanding my expertise in **C# and the .NET framework** to comple
 
 ---
 
-## 💻 Project Experience & Engineering Logic
+## 🛠️ Technical Support & Systems Experience
 
-My work focuses on full-lifecycle development—from database architecture to frontend deployment. I pride myself on writing clean, maintainable code and documenting my logic.
+My background combines formal CS education with practical troubleshooting experience. I understand what happens "under the hood" when software crashes or networks fail.
 
-| Project | Engineering Focus & Tech Stack |
+| Project / Role | Technical Focus & Troubleshooting |
 | --- | --- |
-| 🎮 **GamerGrave** | **Database Architecture:** Engineered a relational database schema in PostgreSQL (Supabase) to handle complex game data and user relationships.<br/>**API Integration:** Managed asynchronous data flow and type safety (TypeScript) between the RAWG API and the internal backend. |
-| 📚 **ToddlerReads** | **Lifecycle Management:** Managed the full SDLC from design to deployment with over 100+ commits.<br/>**System Debugging:** Systematically diagnosed and refactored logic errors to improve performance on mobile devices.<br/>**Tech:** React, Node.js, Vite. |
-| ⚙️ **Automation Logic** | **Workflow Engineering:** Designed complex logical scripts to integrate distinct platforms (GoHighLevel, Make, AI Agents).<br/>**Reliability Testing:** Conducted rigorous error-handling tests to ensure 99.9% uptime for client automation systems. |
+| ⚙️ **IT Automation & Support**<br>*(Freelance Consultant)* | **System Integration:** Connected distinct platforms (GoHighLevel, Make) and diagnosed API connectivity errors to ensure 99.9% uptime for client workflows.<br/>**Scripting:** Wrote logical scripts to automate manual data entry and reduce user error. |
+| 💻 **ToddlerReads**<br>*(Web Application)* | **Hosting & DNS:** Managed domain configuration, DNS records, and hosting environments on Vercel.<br/>**Debugging:** Systematically diagnosed browser compatibility issues and refactored code to resolve mobile performance crashes. |
+| 🎮 **GamerGrave**<br>*(Database Mgmt)* | **Data Integrity:** Designed relational schemas in PostgreSQL to ensure data consistency and prevent corruption.<br/>**Backend Logic:** Built and maintained API connections, gaining a deep understanding of HTTP status codes and server-side errors. |
 
 ---
 
-## 🧰 Technical Skillset
+## 🧰 Technical Skills
 
-* **Core Languages:** C# (Academic/Learning), C++, SQL, JavaScript/TypeScript, Python
-* **Backend & Databases:** PostgreSQL, Supabase, REST APIs, Relational Data Modeling
-* **Frontend & Tools:** React, HTML5, CSS3, Git, GitHub, Vercel, Node.js
+* **Troubleshooting:** Windows 10/11, macOS, Hardware Diagnostics, Software Configuration
+* **Networking Basics:** DNS, DHCP, TCP/IP, Wi-Fi Connectivity
+* **Scripting & Tools:** PowerShell basics, Git/GitHub, JavaScript/Python (for automation)
+* **Certifications:** CompTIA A+ (In Progress)
 
 ---
 
 ## 🎯 My Goal
 
-My goal is to join an engineering team where I can apply my skills in **logic, database management, and software development**. I am eager to work in environments that value problem-solving and continuous improvement, such as logistics automation or enterprise software development.
+My goal is to join an IT team where I can apply my **problem-solving mindset** to support business operations. I am eager to work in Help Desk or Desktop Support roles where I can leverage my technical background to help users and maintain critical infrastructure.
 
 ---
 
-> *"Logic. Structure. Efficiency."*
+> *"Troubleshoot. Solve. Document."*
