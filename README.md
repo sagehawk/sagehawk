@@ -22,7 +22,7 @@ I don't just write code; I build **autonomous systems**. My recent focus is on *
 
 ## 🚀 Featured Engineering Project
 
-### [AI Voice Dispatcher & Scheduler](https://github.com/sagehawk/1639a6c36a44c9e3f5d954fd6f586de5)
+### [AI Voice Dispatcher & Scheduler](https://gist.github.com/sagehawk/1639a6c36a44c9e3f5d954fd6f586de5)
 **Technologies:** n8n, Vapi (Voice AI), JavaScript, REST APIs, Google Cloud
 * **The Problem:** Local businesses lose revenue when they miss inbound phone calls.
 * **The Solution:** Built a real-time AI agent that qualifies leads and books appointments directly into a Google Calendar.
