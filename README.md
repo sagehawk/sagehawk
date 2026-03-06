@@ -1,7 +1,9 @@
 <h1 align="center">Hey, I'm Sajjad 👋</h1>
+
 <p align="center">
   <strong>Software Developer</strong> · Full-Stack · AI Integration · Cross-Platform Mobile
 </p>
+
 <p align="center">
   <a href="https://www.sajjadhaq.com">🌐 Portfolio</a> · 
   <a href="https://www.linkedin.com/in/sajjadhaq/">💼 LinkedIn</a> · 
@@ -9,19 +11,28 @@
 </p>
 
 ---
+
 ### About Me
-I build full-stack web apps, integrate AI, and ship across platforms — from concept to production. Over the past year I've independently designed, developed, and deployed **4 production-grade applications** spanning game discovery platforms, voter mobilization tools, children's literacy apps, and AI-powered productivity systems.
-As the founder of **Ceramic Catalysts**, I've built high-performance client portals, marketing sites, and AI automation tools for **42+ clients**.
-I don't just use AI — I **build with it as a core part of my workflow**. From Gemini CLI and Claude Code to prompt engineering and AI-generated assets, I leverage AI pair programming to ship faster while keeping architecture clean.
+
+I build full-stack web apps and AI tools that solve real business problems, and I ship them fast.
+
+As the founder of **Ceramic Catalysts**, I've delivered high-performance portals and AI automation tools for **42+ clients** to help them eliminate bottlenecks. Over the last 12 months, I've independently architected and shipped **4 production-grade applications** from scratch.
+
+AI is my **core engineering partner**. By building alongside advanced AI models, I ship clean, production-ready code in a fraction of the traditional time. You get your product faster, without sacrificing quality.
+
 ---
+
 ### 🚀 Featured Projects
+
 | Project | Description | Stack | Links |
 |---------|-------------|-------|-------|
 | **🎮 GamerGrave** | Community-driven indie game discovery platform with auth, game submissions, admin moderation & RAWG API integration | React · TypeScript · Supabase · AWS Amplify · Docker · Nginx | [Demo](http://gamergrave.sajjadhaq.com/) · [Repo](https://github.com/sagehawk/grave-diggers-arcade-finds) |
 | **🗳️ Junaid for Congress** | Voter mobilization app with GIS district verification, multi-provider geocoding, voter CRM & 30+ mapped polling locations | React · TypeScript · Supabase · Mapbox · Turf.js · Deno | [Demo](http://junaidwins.com/) |
 | **📖 Toddler Reads** | Cross-platform early-literacy app with 5 learning modules, physics-based drag engine & Web Speech TTS | React · TypeScript · Capacitor · Framer Motion · PWA | [Demo](https://www.toddlerreads.com/) · [Repo](https://github.com/sagehawk/toddler-reads) |
 | **⚡ Winner Effect** | AI-powered productivity app with Gemini API coaching, 5 AI personas, pattern analytics & gamification | React · TypeScript · Gemini API · Capacitor · Web Workers | [Demo](https://quarter-log.vercel.app/) · [Repo](https://github.com/sagehawk/Quarter-Log-) |
+
 ---
+
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks**  
@@ -53,14 +64,19 @@ I don't just use AI — I **build with it as a core part of my workflow**. From 
 ![Claude](https://img.shields.io/badge/Claude_Code-CC9B7A?style=flat&logo=anthropic&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
+---
+
 ### 📊 By the Numbers
+
 ```
 412+  total commits across projects
 42+   clients served (Ceramic Catalysts)
  4    production apps shipped
  3    platforms (Web · PWA · Android)
 ```
+
 ---
+
 <p align="center">
   <em>Currently seeking entry-level / junior software development roles.</em><br/>
   <em>Let's connect → <a href="mailto:haq.sajjad220@gmail.com">haq.sajjad220@gmail.com</a></em>
