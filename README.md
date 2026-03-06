@@ -8,6 +8,7 @@
   <a href="mailto:haq.sajjad220@gmail.com">📬 Email</a>
 </p>
 
+---
 ### About Me
 I build full-stack web apps, integrate AI, and ship across platforms — from concept to production. Over the past year I've independently designed, developed, and deployed **4 production-grade applications** spanning game discovery platforms, voter mobilization tools, children's literacy apps, and AI-powered productivity systems.
 As the founder of **Ceramic Catalysts**, I've built high-performance client portals, marketing sites, and AI automation tools for **42+ clients**.
@@ -20,7 +21,7 @@ I don't just use AI — I **build with it as a core part of my workflow**. From 
 | **🗳️ Junaid for Congress** | Voter mobilization app with GIS district verification, multi-provider geocoding, voter CRM & 30+ mapped polling locations | React · TypeScript · Supabase · Mapbox · Turf.js · Deno | [Demo](http://junaidwins.com/) |
 | **📖 Toddler Reads** | Cross-platform early-literacy app with 5 learning modules, physics-based drag engine & Web Speech TTS | React · TypeScript · Capacitor · Framer Motion · PWA | [Demo](https://www.toddlerreads.com/) · [Repo](https://github.com/sagehawk/toddler-reads) |
 | **⚡ Winner Effect** | AI-powered productivity app with Gemini API coaching, 5 AI personas, pattern analytics & gamification | React · TypeScript · Gemini API · Capacitor · Web Workers | [Demo](https://quarter-log.vercel.app/) · [Repo](https://github.com/sagehawk/Quarter-Log-) |
-
+---
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks**  
